@@ -9,4 +9,4 @@ Members:\
 
 Since the file with the data contains too many files, we have uploaded them onto Google Drive and the link to download it is https://drive.google.com/open?id=1laNv-3EvXo6nJ808iW-XZB0t0uAAK48w
 
-Placing the file 'data' in the same folder as the python code will allow the code to run.
+Placing the file 'data' in the same folder as the python code will allow the code to run. Note that it has to be the file data with all the .txt files inside it.
